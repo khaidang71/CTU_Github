@@ -5,7 +5,7 @@
 #define empty 0
 #define goal 6 //muc tieu luong nuoc can dong nuoc
 #define Maxlength 100 //su dung cai dat Ngan Xep (Stack)
-
+// day la dang
 
 
 //khai bao cau truc trang thai
